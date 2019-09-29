@@ -17,3 +17,4 @@ function animate() {
 	renderer.render( scene, camera );
 }
 animate();
+var terry = new Terrain();
